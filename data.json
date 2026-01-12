@@ -1,0 +1,34 @@
+{
+    "shein": {
+        "500": [
+            "CODE2",
+            "CODE3"
+        ],
+        "1000": [
+            "SVMXEWMDBX12OIXL",
+            "SVFX23MDBX21OIXL",
+            "VF0MX11MDBX12OIL"
+        ],
+        "2000": [
+            "SVMXEWMDBX12OIXL",
+            "SVFX23MDBX21OIXL",
+            "VF0MX11MDBX12OIL"
+        ],
+        "4000": [
+            "SVMXEWMDBX12OIXL",
+            "SVFX23MDBX21OIXL",
+            "VF0MX11MDBX12OIL"
+        ]
+    },
+    "bigbasket": {
+        "1": [],
+        "5": [],
+        "10": [],
+        "20": [],
+        "500": [
+            "test123",
+            "test098"
+        ]
+    },
+    "free": []
+}
